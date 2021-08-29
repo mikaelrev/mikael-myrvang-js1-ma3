@@ -1,6 +1,6 @@
 body {
-  background: #ebebeb;
-  font-family: "Open Sans", sans-serif;
+  background: lightgray;
+  font-family: Open Sans;
 }
 
 h1 {
@@ -19,13 +19,4 @@ h1 {
   background: white;
   border: 1px solid grey;
   border-radius: 1rem;
-}
-
-.loader {
-  border: 16px solid #f3f3f3;
-  border-top: 16px solid darkred;
-  border-radius: 50%;
-  width: 120px;
-  height: 120px;
-  animation: spin 2s linear infinite;
 }
